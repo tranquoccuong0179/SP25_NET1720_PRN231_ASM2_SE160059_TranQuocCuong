@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Psychologicaly.grpc\\Psychologicaly.grpc.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Psychologicaly.Client\\Psychologicaly.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

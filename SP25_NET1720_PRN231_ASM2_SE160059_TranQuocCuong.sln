@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychologicaly.Repository", "..\..\SP25_NET1720_PRN231_ASM1_SE160059_TranQuocCuong\Psychologicaly.Repository\Psychologicaly.Repository.csproj", "{65670D64-3197-4F64-93FA-D3C985108B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychologicaly.Service", "..\..\SP25_NET1720_PRN231_ASM1_SE160059_TranQuocCuong\Psychologicaly.Service\Psychologicaly.Service.csproj", "{BDD05FBF-C326-481C-B2E5-18F5A5E5C33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychologicaly.grpc", "Psychologicaly.grpc\Psychologicaly.grpc.csproj", "{4EDE95F4-F8DA-409F-8057-64D046364FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychologicaly.Client", "Psychologicaly.Client\Psychologicaly.Client.csproj", "{78C64C25-4747-4181-9ACA-094F4C1C2FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65670D64-3197-4F64-93FA-D3C985108B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65670D64-3197-4F64-93FA-D3C985108B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65670D64-3197-4F64-93FA-D3C985108B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65670D64-3197-4F64-93FA-D3C985108B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD05FBF-C326-481C-B2E5-18F5A5E5C33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD05FBF-C326-481C-B2E5-18F5A5E5C33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD05FBF-C326-481C-B2E5-18F5A5E5C33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD05FBF-C326-481C-B2E5-18F5A5E5C33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDE95F4-F8DA-409F-8057-64D046364FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDE95F4-F8DA-409F-8057-64D046364FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDE95F4-F8DA-409F-8057-64D046364FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDE95F4-F8DA-409F-8057-64D046364FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C64C25-4747-4181-9ACA-094F4C1C2FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C64C25-4747-4181-9ACA-094F4C1C2FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C64C25-4747-4181-9ACA-094F4C1C2FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C64C25-4747-4181-9ACA-094F4C1C2FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

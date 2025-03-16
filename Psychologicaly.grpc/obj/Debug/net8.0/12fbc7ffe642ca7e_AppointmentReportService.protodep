@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/AppointmentReportService.cs \
+obj\Debug\net8.0\Protos/AppointmentReportServiceGrpc.cs: Protos/AppointmentReportService.proto
